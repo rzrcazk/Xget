@@ -175,6 +175,7 @@ export const PLATFORMS = {
   arxiv: 'https://arxiv.org',
   fdroid: 'https://f-droid.org',
   jenkins: 'https://updates.jenkins.io',
+  'linux-do': 'https://linux.do',
 
   // AI Inference Providers
   'ip-openai': 'https://api.openai.com',
