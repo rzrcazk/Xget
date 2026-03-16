@@ -177,6 +177,14 @@ export const PLATFORMS = {
   jenkins: 'https://updates.jenkins.io',
   'linux-do': 'https://linux.do',
 
+  // RSS Feeds - AI & Tech Blogs
+  'rss-deepmind': 'https://deepmind.google',
+  'rss-google-ai': 'https://blog.google',
+  'rss-hf-blog': 'https://huggingface.co',
+
+  // RSSHub
+  rsshub: 'https://rsshub.app',
+
   // AI Inference Providers
   'ip-openai': 'https://api.openai.com',
   'ip-anthropic': 'https://api.anthropic.com',
